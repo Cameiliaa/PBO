@@ -116,7 +116,6 @@ class User {
 
     // Getter and setter methods for name
 }
-package Tugas2;
 
 public class Mahasiswa {
     // Deklarasi variabel
